@@ -1,4 +1,4 @@
-import inquirer from "inquirer";
+import inquirer from "";
 const ans:{
     num1:number,
     num2:number,
